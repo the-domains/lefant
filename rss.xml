@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[lefant]]></title>
         <description><![CDATA[lefant]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lefant/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 08:35:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 19 Jan 2016 08:39:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lefant/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9df543fd-9dbc-4918-ba38-64267397ca2f.png">]]></description>
+            <link>https://thegrid.ai/lefant/012a9f72-e8c4-460f-804c-745f14ffc8cc/index.html</link>
+            <guid isPermaLink="false">012a9f72-e8c4-460f-804c-745f14ffc8cc</guid>
+            <pubDate>Tue, 19 Jan 2016 08:39:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>testing thegrid.</p>]]></description>
-            <link>undefined0b5a859d-0599-4649-b824-c8581428960d/index.html</link>
+            <link>https://thegrid.ai/lefant/0b5a859d-0599-4649-b824-c8581428960d/index.html</link>
             <guid isPermaLink="false">0b5a859d-0599-4649-b824-c8581428960d</guid>
             <pubDate>Tue, 19 Jan 2016 08:35:37 GMT</pubDate>
         </item>
