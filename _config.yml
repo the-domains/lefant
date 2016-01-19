@@ -1,0 +1,28 @@
+name: lefant
+favicon: null
+layout_spectrum: 0.3023438232485205
+typography_spectrum: 0.732106695882976
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7739126982633024
+  lightness: 0.8711048751138151
+  saturation: 0.7118684456218034
+  rhythmicContrast: 0.21207918203435838
+purpose: []
