@@ -1,19 +1,4 @@
-name: lefant
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 1
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -25,4 +10,20 @@ color:
   lightness: 0.8711048751138151
   saturation: 0.7118684456218034
   rhythmicContrast: 0.21207918203435838
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: lefant
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+description: "Happy hacker, functional programming and bayesian\_"
 purpose: []
