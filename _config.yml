@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: e.lefant.net
+    url: 'http://e.lefant.net/'
+    type: external
 favicon: null
 description: 'Happy hacker, functional programming and bayesian stats nerd'
 purpose: []
