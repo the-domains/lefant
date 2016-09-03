@@ -29,5 +29,6 @@ navigation:
     url: 'http://e.lefant.net/'
     type: external
 favicon: null
+title: Fabian Linzberger
 description: 'Happy hacker, functional programming and bayesian stats nerd'
 purpose: []
